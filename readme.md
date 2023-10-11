@@ -24,4 +24,4 @@ Choki is a simple image processing app that allows you to import images, crop th
 - Tkinter
 
 # GUI
-![Example Image]("./raw_images/Picture1.png")
+![Example Image]("raw_images/Picture1.png")
